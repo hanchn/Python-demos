@@ -1,3 +1,2 @@
-for value  in [1, 2, 3]:
-    print(value)
-print("----------------------")
+for val in range(1, 10):
+    print(val)
